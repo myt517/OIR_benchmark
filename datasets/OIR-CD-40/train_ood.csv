@@ -1,0 +1,601 @@
+text	label
+i need to switch to a new insurance plan	insurance_change
+i would like to change my insurance from a ppo to an hmo plan	insurance_change
+i want to get new insurance	insurance_change
+i am thinking of switching to a different insurance plan	insurance_change
+could you tell me how to make changes to my insurance policy	insurance_change
+connect me with some new insurance	insurance_change
+what is the procedure for signing up for a new allstate plan	insurance_change
+i need to change my insurance policy, do you know how	insurance_change
+what rental insurance policy do you recommend	insurance_change
+how do i update my insurance	insurance_change
+please put annie's baby shower on march 30 in my calendar	calendar_update
+clear my calendar on march 1st	calendar_update
+for friday, add a doctor's appointment to my calendar	calendar_update
+clear my calendar on feb 28	calendar_update
+i need buy a birthday gift for sue taken off my calendar  it is on monday or tuesday last week	calendar_update
+add my dentist appointment to the calendar	calendar_update
+clear my entire schedule for april 1	calendar_update
+i need anniversary dinner added to my schedule for march 7	calendar_update
+for the calendar, on february 8 add moms birthday	calendar_update
+i want to take the 8am meeting with sam on monday the 5th off my calendar	calendar_update
+will i need a visa to go to moldova	international_visa
+visa's are hard to get do i need one when i travel to israel	international_visa
+to vacation to tel aviv do i need a travel visa	international_visa
+i need to know if i must have an international visa to go to france	international_visa
+does mexico require an international visa	international_visa
+if i go to brazil, do i need to get an international visa	international_visa
+i need to know if i need a visa to travel to el salvador	international_visa
+does laos require a travel visa	international_visa
+will i need a visa to visit ireland	international_visa
+does mexico travel require a visa	international_visa
+how long is the drive from sfo to fisherman's wharf	distance
+how long does it take to get to the airport in dallas	distance
+how long will it take to get to tacoma	distance
+if i go by bus, how long will it take to get to the airport	distance
+how long does it take until i reach the sky harbor airport	distance
+how many miles will it take to get to my destination	distance
+how long will it take me to get to walmart	distance
+about how much time will it take to get to the laundry in this area	distance
+approximately how long does it take to get to the resort in miami	distance
+how much farther is orlando from my location	distance
+i'm too drunk to drive and need an uber home	uber
+i need to obtain and uber	uber
+schedule an uber to the mall	uber
+get me an uber to the napa winery	uber
+please book an uber for chima's	uber
+order a large uber for 5 people to the zoo	uber
+i need an uber	uber
+get a uber for two to go to a romantic dinner at mcdonalds	uber
+i would like an uber going to the train station, please	uber
+get an uber for 4 passengers to get us to the phl airport	uber
+i need to get some assistance figuring out how to rollover my 401k, please	rollover_401k
+will my 401k carryover	rollover_401k
+help me to transfer my 401k	rollover_401k
+i just got this new job but i need help with my 401k rollover	rollover_401k
+i recently took a new job and need help with my 401k rollover	rollover_401k
+i need to get some assistance figuring out how to rollover my 401k	rollover_401k
+could you roll over my 401k for me	rollover_401k
+can you assist me rolling over a 401k for a new job	rollover_401k
+how do i roll over my 401k	rollover_401k
+do i have the ability to rollover my 401k	rollover_401k
+please put babysitting on my to do list	todo_list_update
+i just finished taking out my recycling, so cross that off my to do list	todo_list_update
+clear my to do list	todo_list_update
+cross off grocery shopping from todo list	todo_list_update
+remove grocery shopping from todo list	todo_list_update
+put clean refrigerator on my spring cleaning to do list	todo_list_update
+erase get a haircut from my to do list, please	todo_list_update
+help remind me that i need to add laundry to my list of housework	todo_list_update
+throw mopping onto my to do list	todo_list_update
+please cross off schedule acupuncture appointment off of the to do list	todo_list_update
+i need to know when i was paid last	payday
+what date will my next paycheck be here	payday
+what time is my next paycheck coming	payday
+when was the date that i was last paid	payday
+when did i get my last paycheck	payday
+when was my last payment	payday
+how much longer until the next payday	payday
+tell me when i last got paid	payday
+what day do i get paid next	payday
+what date do i get my next paycheck	payday
+what's the updated status of my order	order_status
+what is the status of my online order of coffee pods	order_status
+is the packaged delivered already	order_status
+when can i expect to receive the order	order_status
+has my order been shipped yet	order_status
+what is the status of my delivery order	order_status
+what is the status of my recent order	order_status
+i placed an order and i need it tracked	order_status
+can you find my package in transit	order_status
+i need a delivery tracked	order_status
+what should i do now that my car battery is dead	jump_start
+tell me how to jump start my own car battery	jump_start
+i want a pic of how to jump start	jump_start
+do you have instructions on jump starting a chevy	jump_start
+how can i start my car using a jump start	jump_start
+show me the way to jump start a battery	jump_start
+i need to know how jumping a car works	jump_start
+will you guide me through the process to jump start my car, please	jump_start
+show me instructions on how to jump start my car	jump_start
+what do i need to jump start a battery	jump_start
+what do i do to set up a vacation	pto_request
+what is the process for making a vacation request	pto_request
+create a pto request for march 21st to march 26th	pto_request
+how do i schedule vacation days	pto_request
+i would like to make a pto request for july 17th and 18th	pto_request
+what is the protocol for requesting a vacation	pto_request
+on march 1-2 i want a pto request made for me	pto_request
+please make a pto request from dates september 1 to 15	pto_request
+could you submit a pto request for me from dates oct thirty to nov second	pto_request
+please request pto for march 2 and 3	pto_request
+i'd like to add pancake mix to my shopping list if it's not already there	shopping_list_update
+i'm out of bananas; add to shopping list	shopping_list_update
+on my shopping list, remove eggs	shopping_list_update
+add eggs to my shopping list if it's not already there	shopping_list_update
+is milk in my shopping list if not, add it	shopping_list_update
+i would like to put carrots on my list for shopping	shopping_list_update
+milk should be added to my shopping list	shopping_list_update
+we no longer need fries on the shopping lisr	shopping_list_update
+add sprite to my shopping list	shopping_list_update
+do i have milk on my shopping list please add it if it is not	shopping_list_update
+find my current location	current_location
+check me out on the map	current_location
+use the map and pinpoint my position	current_location
+latitude and longitude please	current_location
+how do i know where i'm at	current_location
+what's the precise coordinates of this place	current_location
+where am i currently	current_location
+can you find the exact address for where i am currently	current_location
+check out my location up on the map	current_location
+what is my location right now	current_location
+what timezone is phoenix in	timezone
+what's the timezone over there	timezone
+i need the time zone for la	timezone
+whats the timezone for modesto	timezone
+what timezone is melbourne in	timezone
+which timezone is england in	timezone
+what are the time zones of russia	timezone
+what is texas's timezone	timezone
+for italy what timezone is it in	timezone
+what timezone do they use in arizona	timezone
+i'm looking for a flight from billings to cleveland on may 2 and a return on may 9	book_flight
+reserve me a flight from ft lauderdale to houston on southwest	book_flight
+search for a flight out of la to chicago on march 3rd for under $500	book_flight
+i want to fly to atlanta for under 300 from pittsburgh	book_flight
+list roundtrip flights available from dallas to los angeles from march 2 to march 10	book_flight
+search for a flight from nyc to la on march 1, returning on march 5	book_flight
+i need an airline ticket for a round trip flight from philadelphia to atlanta for the dates of june 5 - 8	book_flight
+i'm looking for a roundtrip flight from afw to dgb for tomorrow until next week	book_flight
+i need to book a roundtrip flight from dallas to los angeles from march 2 to march 10	book_flight
+book a flight from la to madrid with southwest	book_flight
+do i have brush my teeth on my todo list	todo_list
+the tasks for today, what are they	todo_list
+what's on my todo list	todo_list
+did i put unpacking groceries on my to do list	todo_list
+tell me what things i need to accomplish per my to do list, please	todo_list
+is cleaning the outside windows on my todo list	todo_list
+what items do i need to do	todo_list
+tell me the content of my to do list today	todo_list
+what is left to do today	todo_list
+does my errand list have goodwill on it	todo_list
+can you let me listen to elvis	play_music
+"""i want to hear the song that has, """"baby shark, doo doo"""	play_music
+can you put on music by beach house	play_music
+do the shower playlist please	play_music
+turn on the rap playlist	play_music
+pull up my shower playlist	play_music
+play me some tunes	play_music
+turn on top 20 country hits	play_music
+play some music	play_music
+can you play the song that sounds like thun thun thun	play_music
+is my day off request approved	pto_request_status
+i want to know the status of my vacation request	pto_request_status
+has my vacation request been updated	pto_request_status
+my vacation, has it been approved yet	pto_request_status
+how is my vacation looking	pto_request_status
+has my vacation request been approved yet	pto_request_status
+check if my vacation time has been approved	pto_request_status
+do you know if my vacation request has been approved	pto_request_status
+did you get confirmation my vacation is a go	pto_request_status
+please let me know the status of my vacation request	pto_request_status
+i wanna know when should i get my tires changed next	tire_change
+would you say i need new tires if i last bought them on the 24th	tire_change
+how many miles are my tires rated for	tire_change
+how often do tires need changing	tire_change
+how many miles do i drive before i have to get new tires i replaced them four years ago	tire_change
+would you tell me when i should replace my tires next if i last replaced them on june 2	tire_change
+how do i know if it is time to replace my tires	tire_change
+when do my tires need changing after i replaced them last week	tire_change
+how often should i get my tires changed	tire_change
+when should i replace my tires next if i last replaced them on the 1st	tire_change
+when can i start boarding my flight	flight_status
+tell me the status of flight dl123	flight_status
+i need to know when my flight scheduled to board	flight_status
+what's the status of by delta flight	flight_status
+are there any expected delays for flight dl123	flight_status
+how long until my flight is here	flight_status
+what landing time is scheduled for my flight	flight_status
+when will i get to my destination	flight_status
+what's the news with my delta flight	flight_status
+i would appreciate it if you could tell me the status of my southwest flight	flight_status
+let's add wonder by hillsong united to my playlist	update_playlist
+please add this song to my country music playlist	update_playlist
+add a song to my rock playlist	update_playlist
+add this song to my jazz playlist	update_playlist
+"""i want this song put on my """"kids"""" playlist"""	update_playlist
+"""make this song part of the """"kids"""" playlist"""	update_playlist
+add single ladies by beyonce to my pop playlist	update_playlist
+please add what i listen to to my lolla playlist	update_playlist
+can you help me add the song i listen to to my clutch playlist	update_playlist
+i gotta add hey jude by the beatles to my playlist	update_playlist
+can you get me any recommendations for the place i'm traveling to	travel_suggestion
+what festivals are there to see in paris	travel_suggestion
+suggest some things for me to do while i am in los angeles	travel_suggestion
+what's fun to do in thailand	travel_suggestion
+let me know some things to do in phoenix	travel_suggestion
+what's a good use of my time in toronto	travel_suggestion
+are there any interesting activities to do in austin	travel_suggestion
+what kinds of fun things are there in boston for tourists	travel_suggestion
+i need ideas for things to do in nashville	travel_suggestion
+what are some hot travel destinations	travel_suggestion
+i want a hotel with good review in honolulu, can you find one	book_hotel
+can you book me a hotel in los angeles near commerce casino from april 1st to the 5th	book_hotel
+i'd like a placed booked in san diego from may 1st, 2020 to june 2nd, 2020	book_hotel
+i need a hotel room for 4 people in lakewood from monday to wednesday	book_hotel
+are there any openings in new york city from april 2 through april 8	book_hotel
+i need a bed in brownsburg near walmart from apil 4th until the 5th	book_hotel
+book me a hotel room in memphis for 3 people from 3/6 until 3/10	book_hotel
+i need to book a hotel in ny, queens arrive on 8th and leave on the 13th	book_hotel
+get me a hotel room big enough for 4 people from may 3 to may 5 in boston	book_hotel
+i need your help to find a good reviewed hotel in washington	book_hotel
+when will i need my next oil change	oil_change_when
+when will i need to change my oil again	oil_change_when
+after how long should i change my oil	oil_change_when
+when does my oil need to be changed	oil_change_when
+should i get an oil change	oil_change_when
+when will my car need an oil change	oil_change_when
+how often should i change the oil	oil_change_when
+how long until i need to change my oil	oil_change_when
+what is the time frame for changing oil	oil_change_when
+how do i know when i need my next oil change	oil_change_when
+tell me about my health insurance	insurance
+remind me of which insurance plan i'm currently enrolled in	insurance
+any word on my healthcare plan	insurance
+what insurance plan do i have	insurance
+i'd like to know about my health plan	insurance
+could you please inform me what health plan i am currently on	insurance
+give me information on my health plan	insurance
+what's my health plan	insurance
+what are the details on my health care plan	insurance
+how do i know my insurance benefits	insurance
+find instructions for how to change the oil in a 2015 passat	oil_change_how
+i should use what kind of oil and can you help me change it	oil_change_how
+teach me how to change the oil in my vehicle	oil_change_how
+is it easy to change the oil in my car	oil_change_how
+can you tell me how to change the oil in my car	oil_change_how
+can you tell me how to change my car's oil, and what type i need to buy	oil_change_how
+steps to change car oil	oil_change_how
+how will i change my car's oil	oil_change_how
+how do i change my oil with the correct type	oil_change_how
+can you teach me how to change my oil in my car	oil_change_how
+look up the song that's on right now	what_song
+what track am i listening to	what_song
+tell me the song that is currently playing	what_song
+what's the title of this track	what_song
+what song am i hearing	what_song
+i want to know the name of the song that's playing	what_song
+what music is playing on the the bluetooth now	what_song
+what is the title of this track	what_song
+whats this song	what_song
+do you know the song on the speaker right now	what_song
+can you book a car rental today to new york city to philadelphia	car_rental
+are you able to help with booking a car rental in seattle	car_rental
+i will be in boston from march 2 to march 4 can i rent a car for that time	car_rental
+can i rent a sports car in augusta for 3/4 through 3/8	car_rental
+is it possible to get a ford in austin from may the 5th to may the 7th of this year	car_rental
+could i get assistance booking a car rental in las vegas	car_rental
+show me how to rent a car in las vegas	car_rental
+id like a car rental between january 1st to the 3rd in denver, id like a ford	car_rental
+find me a rental car from 2/28 - 3/1 in reno	car_rental
+will you please assist me with renting a car in boise	car_rental
+i would love to know the closest gas station to glendale	directions
+how do i get to the fine arts center by foot	directions
+how can i take a bus to dallas	directions
+i want directions to phoenix	directions
+how do i get to the museum on foot	directions
+how do i get to the court house on foot	directions
+is there a tire repair place near the post office	directions
+please tell me the location of the nearest target store	directions
+direct me to the closest korean grocery	directions
+does the bus go to the washington monument	directions
+i think my luggage has been lost	lost_luggage
+my luggage has not arrived and i would like help locating it	lost_luggage
+can you please help me locate my luggage	lost_luggage
+i just flew in on american airlines flight ab123 from chicago and can't find my luggage	lost_luggage
+is there someone i can talk to since i am in the airport waiting for my luggage which never came	lost_luggage
+i've lost my luggage what should i do now	lost_luggage
+what would be the best way to deal with lost luggage	lost_luggage
+tell me where my luggage is	lost_luggage
+what do you do if your luggage is missing	lost_luggage
+what if i lost my luggage	lost_luggage
+book an oil change please	schedule_maintenance
+help me find someone to look at my check engine light	schedule_maintenance
+i need someone to look at my check engine light	schedule_maintenance
+make an appointment to check my tires	schedule_maintenance
+i'd like to make an appointment to get my oil changed	schedule_maintenance
+which mechanic can check my check engine light	schedule_maintenance
+i want to schedule a tire check up somewhere	schedule_maintenance
+my check engine light is on and someone needs to look at it	schedule_maintenance
+my engine light came on, so i need to get help	schedule_maintenance
+i'd like to schedule a tire inspection	schedule_maintenance
+tell me when was car in shop	last_maintenance
+tell me the date of my last car check up	last_maintenance
+dates for my car in the shop	last_maintenance
+when was my car last in the shop	last_maintenance
+when did i take my car to the shop last	last_maintenance
+tell me the last time i had my car checked out at sam's repair shop	last_maintenance
+when was my car last worked on	last_maintenance
+when did last go to the auto repair shop	last_maintenance
+i need to know when it was that i last took my car to have the oil changed	last_maintenance
+what day did i last have a technician check out my vehicle	last_maintenance
+what is the amount of gas in my car	gas
+what percentage of gas do i have left	gas
+how many more miles can i drive on my current tank	gas
+what do i have left in the gas tank	gas
+what's my current fuel level	gas
+can you read my gas level	gas
+can i make it to tampa without needing to get more gas	gas
+i need to know how much gas i got	gas
+inform me as to how much gas my car has	gas
+i wanna know how much gas i have	gas
+do you have a list of shots that i need for traveling to denmark	vaccines
+do i need shots before traveling to mexico	vaccines
+does travel to africa require any shots	vaccines
+is it recommended to get any specific shots before i travel to canada	vaccines
+do i need vaccinations to travel there	vaccines
+what sorts of vaccinations should i get prior to a trip to hong kong	vaccines
+what type of specific shots should i get before flying to south korea	vaccines
+what vaccinations should i get if i go to nigeria	vaccines
+i'm going to south africa, so should i get some vaccinations or anything	vaccines
+do i need shots to go to thailand	vaccines
+what did i ask you to remind me of	reminder
+check to see if picking up glenn from the airport is on my list of reminders	reminder
+is grocery shopping on my reminders list	reminder
+i need to know the content of my list of reminders	reminder
+tell me everything i included on my list of things to remember for later	reminder
+refresh my memory about what items i want to remember	reminder
+can you read my reminder list, please	reminder
+is the company party on my list of reminders	reminder
+what were those things i wanted to remember	reminder
+tell me what i had wanted to remember earlier	reminder
+i need to know how many vacation days i have	pto_balance
+how much paid time off do i have saved	pto_balance
+do i have any remaining pto days	pto_balance
+let me know the number of vacation days i have	pto_balance
+how many vacation days have i accumulated	pto_balance
+how many weeks of vacation time do i have	pto_balance
+can you let me know how many pto days do i have left	pto_balance
+would you please tell me how many vacation days i have	pto_balance
+how much paid time off have i earned to date	pto_balance
+do i have any vacation time left	pto_balance
+on tuesday you are supposed to have a meeting	calendar
+tell me everything on my calendar for may 1	calendar
+how is my calendar looking for may 6th	calendar
+do i have anything on my calendar next sunday	calendar
+what do i have planned on my calendar for next sunday	calendar
+what's happening on may 3rd	calendar
+what time is my haircut on wednesday	calendar
+i have what to do on wednesday	calendar
+can you tell me what my may 1st will be like according to my calendar	calendar
+do i have any appointments on my calendar march 22nd	calendar
+i need to know the travel alerts for kenya	travel_alert
+does the state department say anything about traveling to haiti	travel_alert
+are there any travel alerts in that region	travel_alert
+is it safe for people to travel to pakistan	travel_alert
+find travel alerts for haiti	travel_alert
+are there any travel alerts for seattle	travel_alert
+travel alert in cuba	travel_alert
+is there a travel alert for russia	travel_alert
+is it safe to travel to bermuda	travel_alert
+are there travel alerts in mexico	travel_alert
+what's next on the list	next_song
+jump to the next song on this playlist	next_song
+remember to play the next number on this particular playlist	next_song
+skip this song, please	next_song
+skip and next	next_song
+what is the next song to be played	next_song
+maybe we can go to the next song	next_song
+lets pause this song and move onto the next	next_song
+play the next musical number	next_song
+go forward to the next track	next_song
+i want know about carry-on for frontier	carry_on
+what are the carry on limits for delta flights	carry_on
+what rules does southwest have for carry-on luggage	carry_on
+how many carry ons can i take on a flight with delta to mexico city	carry_on
+will jet blue allow more than one carry on	carry_on
+i would like to know delta's carry on policy	carry_on
+i want to know the carry on policy for aeromexico	carry_on
+ist all carry-on restrictions applicable to my flight	carry_on
+does jet blue have any carry-on restrictions	carry_on
+what can't i carry-on to delta	carry_on
+what mpg does this car get on the highway	mpg
+how expensive is it to fuel this car	mpg
+tell me the gas mileage on my car	mpg
+what is the gas mileage on a 2012 ford fusion	mpg
+how much gas does this use in the city	mpg
+tell me my car's fuel economy	mpg
+i need to know this car's mpg	mpg
+how much mpg does this car get on the highway	mpg
+tell me my miles per gallon on my car	mpg
+how many miles will i get for one gallon on this car	mpg
+what meetings do i have today from 3 to 4	meeting_schedule
+which meetings do i have today	meeting_schedule
+when is my meeting with infrastructure	meeting_schedule
+are there any meetings on my calendar today	meeting_schedule
+is the meeting with lisa today	meeting_schedule
+when is my meeting with ann	meeting_schedule
+when is that meeting with kara	meeting_schedule
+what are my meetings today	meeting_schedule
+do i have any meetings with mark today	meeting_schedule
+tell me when today's meeting is supposed to happen	meeting_schedule
+how is the temperature at ac	smart_home
+can you tell me what the ac is on	smart_home
+activate my furnace please	smart_home
+engage all the door locks	smart_home
+what is it at, the ac temperature	smart_home
+oven set it to 350	smart_home
+tv turn it on	smart_home
+ac temperature is at what	smart_home
+can you please turn on my furnace	smart_home
+can you turn the oven to 350	smart_home
+when's the next federally recognized holiday	next_holiday
+is the next day off coming up	next_holiday
+tell me how long until the next day off	next_holiday
+when is the next holiday in this country	next_holiday
+what is the next holiday	next_holiday
+i need to know when the next holiday is	next_holiday
+when don't i have to work next	next_holiday
+how many holidays are there and when is the next one here	next_holiday
+what is the next holiday on the calendar	next_holiday
+are there any holiday's comming up	next_holiday
+whats the exchange rate for us dollars to british pounds	exchange_rate
+how many dollars can i exchange for 200 pounds	exchange_rate
+whats the current exchange rate between usd and eur	exchange_rate
+how many pesos equals 500 dollars	exchange_rate
+how much is 500 dollars in pesos	exchange_rate
+what is 2 francs in euros	exchange_rate
+what's the currency conversion between usd and yen	exchange_rate
+what's the currency conversion between usd and pounds	exchange_rate
+if i have 10 us dollars, how many pounds sterling is that	exchange_rate
+in canadian dollars, what is $30	exchange_rate
+can you tell me what gas this car takes	gas_type
+which gas type does this car take	gas_type
+is there a certain kind of fuel needed	gas_type
+what kind of gas should i use to fill the car	gas_type
+what kind of gas does my car use	gas_type
+what kind of fuel do i need	gas_type
+i need to know the type of gas for this car	gas_type
+tell me what type of fuel my car uses	gas_type
+what type of fuel do i need to use to fill the car up with	gas_type
+what type of fuel should i use in my car	gas_type
+how is the traffic near lexington	traffic
+can you tell me about the traffic typically at noon on the route the hospital	traffic
+should i take a different route to work	traffic
+let me know the traffic in tempe	traffic
+i need to know traffic patterns heading to the george washington bridge from manhattan	traffic
+what will traffic be like at 5:00 going towards the mall	traffic
+what's the traffic like right now for my route to work	traffic
+is the traffic light or heavy at the nearest the century movie theater	traffic
+is there traffic expected	traffic
+how is the traffic on the way to the mall	traffic
+do you know how to say where is the restroom in french	translate
+please tell me how to ask for a taxi in french	translate
+in spanish, meet me tomorrow is said how	translate
+what do spanish people say for the word cow	translate
+translate hello into french for me	translate
+translate for me hello into french	translate
+how do i say bathroom in italian	translate
+can you tell me how to say 'i do not speak much spanish', in spanish	translate
+how do vietnameses people say hello	translate
+how do i say you're welcome in chinese	translate
+can you teach me how to set up direct deposit, or show me who can	direct_deposit
+direct deposit information	direct_deposit
+if i would like to set up direct deposit, how do i do it	direct_deposit
+how would i go about setting up a direct deposit	direct_deposit
+chase account options direct deposit	direct_deposit
+how do i get direct deposit set up	direct_deposit
+i'd like my paychecks direct deposited in my navyfed checking account	direct_deposit
+how do i get direct deposit for my paycheck	direct_deposit
+how do i arrange a direct deposit into my savings account	direct_deposit
+tell me how to set up a direct deposit	direct_deposit
+can you schedule a meeting with steve at the office	schedule_meeting
+please schedule a meeting with kim at 10 am	schedule_meeting
+i need you to schedule a meeting with bob brown at noon the day after tomorrow	schedule_meeting
+please find out if rooms are free from 1 to 2	schedule_meeting
+i want to know how do i schedule a meeting	schedule_meeting
+is there an open meeting room between 2 and 4	schedule_meeting
+could you please schedule a meeting with carrie and lisa	schedule_meeting
+i need you to schedule a meeting with carrie and lisa	schedule_meeting
+tell me how i can schedule a meeting	schedule_meeting
+at noon, schedule a meeting with saul	schedule_meeting
+i am in need of my w2 for tax reasons; provide me where to get it	w2
+where can i get my w-2	w2
+tell me where to a w2 form	w2
+from where are w2 forms given	w2
+where do i pick up a w2 form	w2
+where do i get the form that shows my wages for the year for taxes	w2
+i've got tax issues and need help obtaining my w2	w2
+please tell me where to get the w2	w2
+where can i get a w2 form	w2
+have i been sent my w-2 in my email	w2
+can you look and see how many days off i have taken so far since january	pto_used
+how much pto is gone	pto_used
+what's the amount of time off i've had	pto_used
+how much pto have i depleted	pto_used
+how much paid time off do i have left	pto_used
+please find out how many of my vacation days i have spent	pto_used
+remind me of how days i had off so far for the year	pto_used
+how much pto have i used	pto_used
+so how many days did i take off	pto_used
+how much so far pto have i used	pto_used
+how much are the taxes on my income	taxes
+can you tell me my income tax	taxes
+how much tax do i owe	taxes
+what will my state taxes amount to this year	taxes
+what will my federal tax return be	taxes
+how much money a year do i spend in taxes	taxes
+what's my tax rate	taxes
+what do my federal taxes look like	taxes
+what am i paying in taxes	taxes
+how much do i pay the irs	taxes
+i need a replacement phone charger ordered online	order
+i need to buy everything on the shopping list	order
+i would like everything on my shopping list ordered	order
+i need more cat food, please order some	order
+add everything to my shopping cart	order
+i'm out of cat food, order more	order
+i've used the last can of tuna fish and need you to order a new case of it	order
+everything needs ordered off my list	order
+will you order me some more lysol spray	order
+can you buy something from walmartcom for me	order
+set up a reminder so i don't forget the baby shower this weekend	reminder_update
+please remind me of something	reminder_update
+create a new reminder to study for my final exams	reminder_update
+remember to remind me of this later	reminder_update
+remind me to check the steak	reminder_update
+make me a reminder that tommorow is trash day	reminder_update
+set a reminder	reminder_update
+set a reminder for when the turkey is finished cooking	reminder_update
+at 4 tomorrow afternoon, remind me to start the oven	reminder_update
+set a reminder to pay my taxes	reminder_update
+how much air remains in my tires	tire_pressure
+please check my tires and let me know if i have sufficient air in them	tire_pressure
+what is the pressure of my tires	tire_pressure
+the car feels wobbly so check my tire pressure	tire_pressure
+should i put air in my tires	tire_pressure
+do my car tires have enough psi in them	tire_pressure
+how is the air level in my tires	tire_pressure
+do i need to inflate my tires	tire_pressure
+how low is the pressure in my tires	tire_pressure
+what is the air pressure of my tires	tire_pressure
+what plug types are there in cuba	plug_type
+what plug type is used in spain	plug_type
+are socket converters something i need to bring if going to australia	plug_type
+if i go to dublin is a socket converter needed	plug_type
+would i need to buy a plug converter when in rome	plug_type
+will i need a plug converter when i visit costa rica	plug_type
+what type of socker conveters do i need in africa	plug_type
+what kind of electrical plug do they use in the uae	plug_type
+what kind of outlets does havana have	plug_type
+when you go to germany, do you need a special converter for your plugs	plug_type
+do you know my work income	income
+how much money do i have coming in each month	income
+what is my gross income per pay period	income
+what's my income before taxes	income
+what is my pay for this year	income
+what will i get paid this year	income
+how much am i getting paid	income
+what's my income	income
+what is my income from work	income
+how much money am i making this year at work	income
+mark down that i will be in rome from february 1 to march 1 and notify my bank	travel_notification
+notify my bank i'll be in rome from the 1st to the 17th	travel_notification
+inform my bank i'm seeing italy	travel_notification
+please tell my bank i'll be in anchorage this week	travel_notification
+please notify my bank i'm going to africa between tomorrow and next tuesday	travel_notification
+i've notified my bank that i'm in mexico from august 1 to august 5	travel_notification
+let me bank know i will be in brazil from june 1st to july 1st	travel_notification
+tell my bank i'll be in cuba beginning the 2nd	travel_notification
+my bank needs to know that i will be traveling to spain soon	travel_notification
+i'm traveling to paris soon and want to inform my bank	travel_notification
+did i include butter in my shopping list	shopping_list
+i'd like to know what is on my shopping list	shopping_list
+i need to know the things on my shopping list	shopping_list
+is waffles on my list for shopping	shopping_list
+what do i need to go shopping for	shopping_list
+is it possible for you to read the things on my shopping list	shopping_list
+what products are on my shopping list	shopping_list
+i'd like to know what's on my shopping list	shopping_list
+what do i currently have on my shopping list	shopping_list
+show me my shopping list	shopping_list
