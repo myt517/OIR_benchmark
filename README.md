@@ -4,10 +4,10 @@ In order to facilitate the decision-making process of the review, we release a p
 
 ## dataset format：
 
-./OIR-SD-40: A portion of OIR-SD-40% dataset, which gives 10 samples for each intent.  
+./dataset/OIR-SD-40: A portion of OIR-SD-40% dataset, which gives 10 samples for each intent.  
 
-./OIR-MD-40: A portion of OIR-MD-40% dataset, which gives 10 samples for each intent.
+./dataset/OIR-MD-40: A portion of OIR-MD-40% dataset, which gives 10 samples for each intent.
 
-./OIR-CD-40: A portion of OIR-CD-40% dataset, which gives 10 samples for each intent.
+./dataset/OIR-CD-40: A portion of OIR-CD-40% dataset, which gives 10 samples for each intent.
 
 The IND/OOD intent split for each dataset is explicitly given
